@@ -4,6 +4,8 @@
 package com.shayan.springCoreConcepts.couple;
 
 public class Person {
+
+
     Animal animal = new Animal(); //object of the animal class
     //will run the constructor automatically
 
