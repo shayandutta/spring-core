@@ -1,7 +1,7 @@
 //person is tightly coupled with animal
 
 
-package com.shayan.springCoreConcepts.couple;
+package com.shayan.springCoreConcepts.tightCouple;
 
 public class Person {
 
